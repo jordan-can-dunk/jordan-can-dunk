@@ -28,7 +28,7 @@ Most importantly, I want to work somewhere that challenges me to keep learning a
 Here are some of the projects I've worked on:
 
 1. 🗺️ **[KC Intern Map](https://kc-intern-map.dimin.io/)** — An interactive map designed to help interns discover things to do and places to explore around Kansas City.
-2. 🏦 **{Commerce Bank Appointment System}(https://github.com/ucmo-cs/S26_SE3910_Team2)** — A full-stack appointment scheduling application built with Java, Spring Boot, React, and MySQL. I made this in my software development class with a team of peers.
+2. 🏦 **[Commerce Bank Appointment System](https://github.com/jordan-can-dunk/commerce-bank-appointment-creator)** — A full-stack appointment scheduling application built with Java, Spring Boot, React, and MySQL. I made this in my software development class with a team of peers.
 3. 🐰 **[Agent Fluffy Bunny (AFB)](https://github.com/lilywall04/agent-fluffy-bunny)** — An AI-powered personal assistant built with a teammate for the UCM Student Symposium.
 Frontend Only:
 5. 💻 **[Personal Portfolio](https://github.com/jordan-can-dunk/jordan_duncan_portfolio)** — My personal website showcasing my projects, experience, and interests.

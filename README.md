@@ -7,7 +7,7 @@ The tech world is big and getting bigger, I don't even know what I don't know. I
 
 ### 🔭 I’m currently working on...
 
-I'm currently working on **building and improving my personal portfolio** and continuing to develop my **[KC Intern Map](https://kc-intern-map.dimin.io/)** application.
+I'm currently working on **building and improving my **[Personal Portfolio](https://github.com/jordan-can-dunk/jordan_duncan_portfolio)** and continuing to develop my **[KC Intern Map](https://kc-intern-map.dimin.io/)** application.
 
 ### 🌱 I’m currently learning...
 
@@ -23,17 +23,6 @@ I want my future career to **grow me and shape me into a better software develop
 
 Most importantly, I want to work somewhere that challenges me to keep learning and helps me become a better developer, teammate, and person.
 
-### 💬 Check out my projects!
-
-Here are some of the projects I've worked on:
-
-1. 🗺️ **[KC Intern Map](https://kc-intern-map.dimin.io/)** — An interactive map designed to help interns discover things to do and places to explore around Kansas City.
-2. 🏦 **[Commerce Bank Appointment System](https://github.com/jordan-can-dunk/commerce-bank-appointment-creator)** — A full-stack appointment scheduling application built with Java, Spring Boot, React, and MySQL. I made this in my software development class with a team of peers.
-3. 🐰 **[Agent Fluffy Bunny (AFB)](https://github.com/lilywall04/agent-fluffy-bunny)** — An AI-powered personal assistant built with a teammate for the UCM Student Symposium.
-Frontend Only:
-5. 💻 **[Personal Portfolio](https://github.com/jordan-can-dunk/jordan_duncan_portfolio)** — My personal website showcasing my projects, experience, and interests.
-6. 🍬 **[Valentine Candy Battle](https://github.com/jordan-can-dunk/valentine-candy-battle)** — A fun interactive web application that I created as an excuse to learn what people like for Valentines day.
-7. 🎀 **[Barbie Hangman](https://github.com/jordan-can-dunk/barbie-hangman)** — A vibe coded Barbie themed interactive hangman web application.
 
 ### 📫 How to reach me
 
